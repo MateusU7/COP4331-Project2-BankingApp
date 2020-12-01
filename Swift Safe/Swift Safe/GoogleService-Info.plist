@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>640948616006-7es7i8iqegmppnnvqjh27lkasll6iuh4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.640948616006-7es7i8iqegmppnnvqjh27lkasll6iuh4</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC9S8uOJ2zSCnsLnaIqd9zJb0gY2XIlZok</string>
+	<key>GCM_SENDER_ID</key>
+	<string>640948616006</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mateusurbanski.Swift-Safe</string>
+	<key>PROJECT_ID</key>
+	<string>swift-safe</string>
+	<key>STORAGE_BUCKET</key>
+	<string>swift-safe.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:640948616006:ios:ef74ef4958d37ce25ac347</string>
+	<key>DATABASE_URL</key>
+	<string>https://swift-safe.firebaseio.com</string>
+</dict>
+</plist>
